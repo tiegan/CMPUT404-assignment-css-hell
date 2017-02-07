@@ -21,13 +21,17 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-Contributors/Collaborators:
+Contributors/Collaborators
 =================
 Everything (excluding requirements.org) contains contributions from:
 
 * Tiegan Bonowicz
 
 Nobody was collaborated with for this assignment.
+
+Gutenberg HTML Changes
+=================
+Everything was changed. Nothing was changed. Something was changed?
 
 References
 =================
