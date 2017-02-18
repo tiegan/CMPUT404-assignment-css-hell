@@ -15,9 +15,11 @@ git clone https://github.com/tiegan/CMPUT404-assignment-css-hell.git
 License/Copyright
 =================
 
-HTML, CSS and JPG files are copyright Tiegan Bonowicz (C) 2017 under the
-CC-BY-SA 4.0 unported license. Attribution should be a hyperlink to the
-repository and (C) 2017 Tiegan Bonowicz visibile in the text.
+All files except for requirements.org are copyright Tiegan Bonowicz (C) 2017, 
+licensed under the Creative Commons Attribution-ShareAlike 4.0 International
+License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative
+Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 Textual content is copyright
 [Abram Hindle](https://github.com/abramhindle/CMPUT404-assignment-css-hell) (C)
@@ -36,9 +38,8 @@ Nobody was collaborated with for this assignment.
 
 Gutenberg HTML Changes
 =================
-The only changes made were to take out any CSS that was there before that
-gutenberg.css changed (i.e. body) and insert a link to gutenberg.css in each
-HTML file.
+The only changes made were to take out all the previous CSS that was in there
+before and in its place to insert a link tag to gutenberg.css in each HTML file.
 
 Gutenberg Books
 =================
