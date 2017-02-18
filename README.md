@@ -42,42 +42,42 @@ HTML file.
 
 Gutenberg Books
 =================
-1) Peter Pan by James Matthew Barrie
-2) The Wizard of Oz by L. Frank Baum 
-3) A Tale of Two Cities by Charles Dickens
+1) Peter Pan by James Matthew Barrie  
+2) The Wizard of Oz by L. Frank Baum  
+3) A Tale of Two Cities by Charles Dickens  
 
 Note that A Tale of Two Cities is the only book of the three to have images.
 The other two had no images.
 
 References
 =================
-URL: https://www.w3schools.com/cssref/default.asp
-Title: "CSS Reference"
-Date Visited: February 16, 2017
-License: Copyright 1999-2017 by Refsnes Data. All Rights Reserved.
+URL: https://www.w3schools.com/cssref/default.asp  
+Title: "CSS Reference"  
+Date Visited: February 16, 2017  
+License: Copyright 1999-2017 by Refsnes Data. All Rights Reserved.  
 
-URL: https://www.w3schools.com/css/css3_gradients.asp
-Title: "CSS3 Gradients"
-Date Visited: February 17, 2017
-License: Copyright 1999-2017 by Refsnes Data. All Rights Reserved.
+URL: https://www.w3schools.com/css/css3_gradients.asp  
+Title: "CSS3 Gradients"  
+Date Visited: February 17, 2017  
+License: Copyright 1999-2017 by Refsnes Data. All Rights Reserved.  
 
-URL: https://www.w3schools.com/cssref/css_websafe_fonts.asp
-Title: "CSS Web Safe Font Combinations"
-Date Visited: February 17, 2017
-License: Copyright 1999-2017 by Refsnes Data. All Rights Reserved.
+URL: https://www.w3schools.com/cssref/css_websafe_fonts.asp  
+Title: "CSS Web Safe Font Combinations"  
+Date Visited: February 17, 2017  
+License: Copyright 1999-2017 by Refsnes Data. All Rights Reserved.  
 
-URL: https://www.w3schools.com/howto/howto_google_fonts.asp
-Title: "How TO - Google Fonts"
-Date Visited: February 17, 2017
-License: Copyright 1999-2017 by Refsnes Data. All Rights Reserved.
+URL: https://www.w3schools.com/howto/howto_google_fonts.asp  
+Title: "How TO - Google Fonts"  
+Date Visited: February 17, 2017  
+License: Copyright 1999-2017 by Refsnes Data. All Rights Reserved.  
 
-URL: https://inspirationhut.net/design-resources/38-old-paper-texture-downloads/
-Date Visited: February 17, 2017
-Image taken: https://inspirationhut.net/wp-content/uploads/2012/11/Paper-Texture-.jpg
-License: None on the image
+URL: https://inspirationhut.net/design-resources/38-old-paper-texture-downloads/  
+Date Visited: February 17, 2017  
+Image taken: https://inspirationhut.net/wp-content/uploads/2012/11/Paper-Texture-.jpg  
+License: None on the image  
 
-URL: http://stackoverflow.com/a/15453416
-Title: "BASIC- Can't get my sidebar on the right of content?"
-Author: James Coyle ( http://stackoverflow.com/users/1994081/james-coyle )
-Date Visited: February 16, 2017
-License: CC-BY-SA 3.0
+URL: http://stackoverflow.com/a/15453416  
+Title: "BASIC- Can't get my sidebar on the right of content?"  
+Author: James Coyle ( http://stackoverflow.com/users/1994081/james-coyle )  
+Date Visited: February 16, 2017  
+License: CC-BY-SA 3.0  
