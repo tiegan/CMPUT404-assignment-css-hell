@@ -1,0 +1,58 @@
+/* I really love this font for this. It's so amazing and I really could've
+   just changed the text to this and left it at that. */
+@import url('https://fonts.googleapis.com/css?family=Finger Paint');
+
+body {
+  font-family: "Finger Paint";
+  background-color: #ce230c;
+}
+
+h1 {
+  text-align: center;
+  color: #000000;
+  font-size: 32pt;
+  background: repeating-linear-gradient(red, yellow 10%, purple 20%);
+  padding: 2em;
+}
+
+h2 {
+  color: #0400ff;
+  text-decoration: underline;
+}
+
+h3, p {
+  color: #ff6a00;
+}
+
+div.content-about {
+  min-height: 240px;
+}
+
+/* Reference: http://stackoverflow.com/a/15453416
+   By: James Coyle ( http://stackoverflow.com/users/1994081/james-coyle )
+   License: CC-BY-SA 3.0 */
+#container {
+  margin: 0 auto;
+}
+
+#sidebar {
+  float: right;
+  width: 30%;
+  border-width: 1px;
+  border-style: solid;
+  height: 70em;
+  background-color: #ecef13;
+  padding: 5pt;
+}
+
+#pagecontent {
+  overflow: hidden;
+  padding: 1em;
+}
+/* End Reference */
+
+img {
+  border-width: 1em;
+  border-style: solid;
+  border-color: purple;
+}

@@ -1,0 +1,74 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-image: url("images/paper.jpg");
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+p {
+  color: #000000;
+  text-indent: 4%;
+  margin-top: .25em;
+  margin-bottom: .25em;
+}
+
+H1, H2, H3, H4, H5, H6 {
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+  color: #000000;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+pre {
+  font-style: italic;
+  font-size: 110%;
+  /* font-size: 90%; margin-left: 10%; */
+}
+
+img {
+  border-style: solid;
+  border-width: 1em;
+  border-color: #f5f5dc;
+  margin-top: 1em;
+}
+
+/* For The Wonderful Wizard of Oz */
+p.noindent, p.pfirst {
+  text-indent: 0%;
+}
+
+p.poem {
+  text-indent: 0%;
+  margin-left: 10%;
+  font-size: small;
+}
+
+/* For The Tale of Two Cities and Peter Pan */
+.toc {
+  margin-left: 10%;
+  margin-bottom: .75em;
+}
+
+hr {
+  width: 50%;
+  text-align: center;
+}
+
+blockquote {
+  text-indent: 0%;
+  font-style: italic;
+}
+
+div.fig {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+span.dropcap {
+  float: left;
+  margin: 0 0.1em 0 0;
+  line-height: .8
+}

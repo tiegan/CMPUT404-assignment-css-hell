@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #434547;
+}
+
+h1 {
+  text-align: center;
+  color: #000000;
+  font-size: 32pt;
+  background: radial-gradient(#FFFFFF, #434547, #434547);
+  padding: 2em;
+}
+
+h2 {
+  color: #bc0d0d;
+  text-decoration: underline;
+}
+
+h3, p {
+  color: #F2F4F7;
+}
+
+div.content-about {
+  min-height: 240px;
+}
+
+/* Reference: http://stackoverflow.com/a/15453416
+   By: James Coyle ( http://stackoverflow.com/users/1994081/james-coyle )
+   License: CC-BY-SA 3.0 */
+#container {
+  margin: 0 auto;
+}
+
+#sidebar {
+  float: right;
+  width: 30%;
+  border-width: 1px;
+  border-style: solid;
+  height: 55em;
+  background-color: #5e6063;
+  padding: 5pt;
+}
+
+#pagecontent {
+  overflow: hidden;
+  padding: 1em;
+}
+/* End Reference */
+
+img {
+  padding: 1em;
+}
